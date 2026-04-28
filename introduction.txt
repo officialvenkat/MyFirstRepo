@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Venkat, and I am a passionate learner currently enrolled in the ALX Software Engineering program. I enjoy exploring new technologies, solving problems, and continuously improving my skills in software development and Linux systems.
+
+I am committed to growing as a developer and collaborator. Through hands-on projects like this one, I am building a strong foundation in version control, shell scripting, and software engineering best practices.
